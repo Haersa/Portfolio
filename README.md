@@ -1,7 +1,7 @@
 # My Portfolio
 # Live Link - https://haersa.dev/
 
-![Portfolio Screenshot](projectoverview.PNG)
+![Portfolio Screenshot](Projectoverview.PNG)
 
 
 ## Project Overview
