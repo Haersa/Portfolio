@@ -1715,7 +1715,7 @@ img.tooltip-icon {
     display: grid;
     grid-template-columns: 1fr;
     grid-template-rows: 1fr;
-    margin-top: 8pxpx;
+    margin-top: 8px;
     gap: 6px;
     font-size: var(--font-xs);
     width: fit-content;
@@ -1724,7 +1724,7 @@ img.tooltip-icon {
   .tech-name,
   .stack-subheading,
   .tech-stack-key-text {
-    font-size: var(--font-xs);
+    font-size: var(--font-sm);
   }
 
   .experienced,
