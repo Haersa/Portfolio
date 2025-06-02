@@ -1,35 +1,40 @@
 # My Portfolio
 
+# Content Branch
+
+# This branch is used to meet the Outcome 3/4 requirements.
 
 ![Portfolio Screenshot](Projectoverview.PNG)
 
+# Changes Made
 
-## Project Overview
-This is my professional portfolio site; it is a simple site that will easily allow any employer to get an idea of who I am, view all relevant contact info, and download my CV easily. I prioritised high readability via contrast, a clear layout, responsiveness and good performance metrics, boasting a very good Google Lighthouse score in all metrics.
+Each content area has clearly defined headers, folliwng a logical flow through my portfoilios journey.
 
+Each section tag is labelled with clear headings,
 
-## Key Technologies
-- HTML5
-- CSS3
-- Mix of CSS grid & Flex layout
-- CSS Variables
+### 2. Web Copywriting Techniques
 
-## Development Notes
-The Mobile menu is not 100% my own code, I created the JavaScript logic and tailored it to work with the menu you see now. I followed along with a tutorial for the bare shell of the mobile menu and the little animated burger button. But anything else CSS-related is my own work.
-All HTML is mine.
+- Used non ambigious easy to read typograhpy.
+- Kept paragraphs small to enhcance readability.
+- Kept a formal but easy to read tone throughouht the whole website.
 
-## Future Plans
-As I create more projects, Full-Stack or not, I will add them to this site. I also aim to get professional working experience soon after college has finished. In the event I do, I will add a new section to highlight my work experience.
+### 3. Projects & Developer overview
 
+- Porjects: Added my new Ciao Football project to the My Work section..
+- Developer Overview: Kept my key personal skills easy to read in a clearly laid out grid.
 
-## Live Demo
+### 4. Home Page Additions
 
-You can view the live project [here](https://haersa.dev/) or check out the code in the repository.
+- Added new technologies and languages I have since learned from the time I developed my portfolio.
+- Changed CSS of certain elements for better responsiveness.
+- ***
 
+## 📂 Files Modified
 
+- index.html: All content sections added with semantic HTML, copywriting, and IA strategies.
+- style.css: Implemented small changes for better readability and responsiveness.
+- README.md: Outlinec changes made on this branch.
 
+## 🔗 GitHub Repo
 
-
-
-
-
+https://github.com/Haersa/Ciao-Football
