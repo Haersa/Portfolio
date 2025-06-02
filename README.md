@@ -29,7 +29,7 @@ Each section tag is labelled with clear headings,
 - Changed CSS of certain elements for better responsiveness.
 - ***
 
-## 📂 Files Modified
+## Files Modified
 
 - index.html: All content sections added with semantic HTML, copywriting, and IA strategies.
 - style.css: Implemented small changes for better readability and responsiveness.
